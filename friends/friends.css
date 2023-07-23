@@ -1,0 +1,23 @@
+.space{
+    border-spacing: 30px;
+}
+
+table, th, td {
+    border: 2px solid rgb(117, 87, 87);
+  }
+
+p{
+    color:blanchedalmond
+}
+
+ol{
+    color:blanchedalmond
+}
+
+ul{
+    color:blanchedalmond
+}
+
+tr{
+    color:blanchedalmond
+}
